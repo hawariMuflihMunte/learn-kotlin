@@ -1,7 +1,7 @@
-fun greeting(): Unit {
-    println("Hello Kotlin!")
+fun greeting(name: String): String {
+    return "Hello $name"
 }
 
 fun main() {
-    greeting()
+    println(greeting("Hawari"))
 }
