@@ -1,7 +1,7 @@
-fun greeting(name: String): String {
-    return "Hello $name"
+fun greeting(name: String, status: String): String {
+    return "Hello $name\nRight now I'm in $status mood"
 }
 
 fun main() {
-    println(greeting("Hawari"))
+    println(greeting("Hawari", "Happy"))
 }
