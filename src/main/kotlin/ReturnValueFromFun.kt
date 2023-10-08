@@ -5,9 +5,7 @@ fun greeting(
     return "Hello $name\nRight now I'm in $status mood"
 }
 
-fun main() {
-    println(greeting("Hawari", "Happy"))
-
+fun learnList(): Unit {
     //  This is List
     //  Read only list
     val readOnlyShapes = listOf("triangle", "square", "circle")
@@ -34,4 +32,10 @@ fun main() {
 
     shapes.add("pentagon")
     println(shapes)
+}
+
+fun main() {
+    println(greeting("Hawari", "Happy"))
+
+    learnList()
 }
