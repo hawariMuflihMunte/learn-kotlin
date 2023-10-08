@@ -28,4 +28,7 @@ fun main() {
     val shapesLocked: List<String> = shapes
     println(shapesLocked)
     // This is also called casting
+
+    println(readOnlyShapes[1])
+    println("This readOnlyShapes has ${readOnlyShapes.count()} items")
 }
