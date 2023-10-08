@@ -5,8 +5,9 @@ fun greeting(
     return "Hello $name\nRight now I'm in $status mood"
 }
 
-fun learnList(): Unit {
-    //  This is List
+fun learnList() {
+    println("\n=======LIST=======")
+
     //  Read only list
     val readOnlyShapes = listOf("triangle", "square", "circle")
     println(readOnlyShapes)
@@ -35,7 +36,7 @@ fun learnList(): Unit {
 }
 
 fun learnSet() {
-    println("=======LIST=======")
+    println("\n=======SET=======")
 
     // Read-only set
     val readOnlyFruit = setOf(
@@ -57,7 +58,29 @@ fun learnSet() {
     * */
     val fruitLocked: Set<String> = fruit
     println("This set has ${readOnlyFruit.count()} items")
-    println("bananaIsExistInSet: ${"banana" in readOnlyFruit}")
+    println("bananaIsExistInSet: ${"banana" in fruitLocked}")
+}
+
+fun learnMap() {
+    println("\n=======MAP=======")
+
+    // Read-only map
+    val readOnlyJuiceMenu = mapOf(
+        "apple" to 100,
+        "kiwi" to 190,
+        "orange" to 100
+    )
+    // Mutable map with explicit type declaration
+    val juiceMenu: MutableMap<String, Int> = mutableMapOf(
+        "apple" to 100,
+        "kiwi" to 190,
+        "orange" to 100
+    )
+
+    println("This map has ${readOnlyJuiceMenu.count()} items")
+
+    val juiceMenuLocked: Map<String, Int> = juiceMenu
+    println("The value of apple juice is: ${juiceMenuLocked["apple"]}")
 }
 
 fun main() {
@@ -65,4 +88,5 @@ fun main() {
 
     learnList()
     learnSet()
+    learnMap()
 }
