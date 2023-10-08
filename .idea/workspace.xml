@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Feat: add list in shapes&#10;- learn purposes">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Refactor: limit the scope of List to `learnList` fun">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/ReturnValueFromFun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ReturnValueFromFun.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696736717873</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Refactor: limit the scope of List to `learnList` fun">
+      <option name="closed" value="true" />
+      <created>1696737090101</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696737090101</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -154,6 +163,7 @@
     <MESSAGE value="Feat: lock lists of shapes&#10;- learn purposes" />
     <MESSAGE value="Feat: outputs list of readOnlyShapes&#10;- learn purposes" />
     <MESSAGE value="Feat: add list in shapes&#10;- learn purposes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: add list in shapes&#10;- learn purposes" />
+    <MESSAGE value="Refactor: limit the scope of List to `learnList` fun" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor: limit the scope of List to `learnList` fun" />
   </component>
 </project>

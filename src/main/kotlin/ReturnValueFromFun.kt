@@ -34,8 +34,35 @@ fun learnList(): Unit {
     println(shapes)
 }
 
+fun learnSet() {
+    println("=======LIST=======")
+
+    // Read-only set
+    val readOnlyFruit = setOf(
+        "apple",
+        "banana",
+        "cherry"
+    )
+    // Mutable set with explicit type declaration
+    val fruit: MutableSet<String> = mutableSetOf(
+        "apple",
+        "banana",
+        "cherry",
+        "cherry"
+    )
+
+    /*
+    * To prevent unwanted modifications, you can obtain read-only views
+    * of mutable lists by assigning them to a `Set`:
+    * */
+    val fruitLocked: Set<String> = fruit
+    println("This set has ${readOnlyFruit.count()} items")
+    println("bananaIsExistInSet: ${"banana" in readOnlyFruit}")
+}
+
 fun main() {
     println(greeting("Hawari", "Happy"))
 
     learnList()
+    learnSet()
 }
