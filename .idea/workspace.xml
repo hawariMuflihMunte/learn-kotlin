@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Feat: lock lists of shapes&#10;- learn purposes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Feat: outputs list of readOnlyShapes&#10;- learn purposes">
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/ReturnValueFromFun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ReturnValueFromFun.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +114,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696735984626</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Feat: lock lists of shapes&#10;- learn purposes">
+      <option name="closed" value="true" />
+      <created>1696736405989</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696736405990</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feat: outputs list of readOnlyShapes&#10;- learn purposes">
+      <option name="closed" value="true" />
+      <created>1696736619152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696736619152</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -129,6 +144,7 @@
     <MESSAGE value="Refactor: ReturnValueFromFun.kt&#10;- Update params to named params" />
     <MESSAGE value="Feat: add lists of shapes&#10;- learn purposes" />
     <MESSAGE value="Feat: lock lists of shapes&#10;- learn purposes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: lock lists of shapes&#10;- learn purposes" />
+    <MESSAGE value="Feat: outputs list of readOnlyShapes&#10;- learn purposes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: outputs list of readOnlyShapes&#10;- learn purposes" />
   </component>
 </project>

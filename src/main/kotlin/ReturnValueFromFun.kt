@@ -31,4 +31,7 @@ fun main() {
 
     println(readOnlyShapes[1])
     println("This readOnlyShapes has ${readOnlyShapes.count()} items")
+
+    shapes.add("pentagon")
+    println(shapes)
 }
