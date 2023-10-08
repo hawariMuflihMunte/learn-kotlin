@@ -20,4 +20,12 @@ fun main() {
         "circle (m)"
     )
     println(shapes)
+
+    /*
+    * To prevent unwanted modifications, you can obtain read-only views
+    * of mutable lists by assigning them to a `List`:
+    * */
+    val shapesLocked: List<String> = shapes
+    println(shapesLocked)
+    // This is also called casting
 }
