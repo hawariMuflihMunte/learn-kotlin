@@ -7,4 +7,17 @@ fun greeting(
 
 fun main() {
     println(greeting("Hawari", "Happy"))
+
+    //  This is List
+    //  Read only list
+    val readOnlyShapes = listOf("triangle", "square", "circle")
+    println(readOnlyShapes)
+
+    // Mutable list with explicit type declaration
+    val shapes: MutableList<String> = mutableListOf(
+        "triangle (m)",
+        "square (m)",
+        "circle (m)"
+    )
+    println(shapes)
 }
