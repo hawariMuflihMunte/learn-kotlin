@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: lambdaexpression/Example4.kt" />
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: lambdaexpression/Example6.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lambdaexpressions/Exercise1.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -311,7 +313,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696850423786</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Add: lambdaexpression/Example5.kt">
+      <option name="closed" value="true" />
+      <created>1696851683406</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1696851683406</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add: lambdaexpression/Example6.kt">
+      <option name="closed" value="true" />
+      <created>1696852148399</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1696852148399</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -330,8 +348,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Feat: add lists of shapes&#10;- learn purposes" />
-    <MESSAGE value="Feat: lock lists of shapes&#10;- learn purposes" />
     <MESSAGE value="Feat: outputs list of readOnlyShapes&#10;- learn purposes" />
     <MESSAGE value="Feat: add list in shapes&#10;- learn purposes" />
     <MESSAGE value="Refactor: limit the scope of List to `learnList` fun" />
@@ -355,6 +371,8 @@
     <MESSAGE value="Add: lambdaexpression/Example2.kt" />
     <MESSAGE value="Add: lambdaexpression/Example3.kt" />
     <MESSAGE value="Add: lambdaexpression/Example4.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: lambdaexpression/Example4.kt" />
+    <MESSAGE value="Add: lambdaexpression/Example5.kt" />
+    <MESSAGE value="Add: lambdaexpression/Example6.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: lambdaexpression/Example6.kt" />
   </component>
 </project>
