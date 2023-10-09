@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: classes/Exercise2.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/Exercise2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nullsafety/Example1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -354,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696853338251</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Add: classes/Exercise2.kt">
+      <option name="closed" value="true" />
+      <created>1696858958174</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1696858958174</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="UnknownFeatures">
