@@ -4,7 +4,7 @@ fun main() {
         "HTTPS",
         "FTP"
     )
-    val requested = "smtp"
+    val requested = "smtp".uppercase()
     val isSupported = requested in SUPPORTED
     println("Support for $requested: $isSupported")
 }
