@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: lambdaexpression/Example3.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lambdaexpressions/Example4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: lambdaexpression/Example4.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -306,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696831970966</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Add: lambdaexpression/Example4.kt">
+      <option name="closed" value="true" />
+      <created>1696850423786</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1696850423786</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -325,7 +330,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refactor: ReturnValueFromFun.kt&#10;- Update params to named params" />
     <MESSAGE value="Feat: add lists of shapes&#10;- learn purposes" />
     <MESSAGE value="Feat: lock lists of shapes&#10;- learn purposes" />
     <MESSAGE value="Feat: outputs list of readOnlyShapes&#10;- learn purposes" />
@@ -350,6 +354,7 @@
     <MESSAGE value="Refactor: implements lambda expressions" />
     <MESSAGE value="Add: lambdaexpression/Example2.kt" />
     <MESSAGE value="Add: lambdaexpression/Example3.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: lambdaexpression/Example3.kt" />
+    <MESSAGE value="Add: lambdaexpression/Example4.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: lambdaexpression/Example4.kt" />
   </component>
 </project>
