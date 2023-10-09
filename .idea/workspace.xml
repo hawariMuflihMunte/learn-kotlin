@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: ControlFlowExerciseTwo.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ControlFlowExerciseThree.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: ControlFlowExerciseFour.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionExerciseOne.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -233,7 +233,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696828831285</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add: ControlFlowExerciseThree.kt&#10;- Fizz Buzz">
+      <option name="closed" value="true" />
+      <created>1696829646020</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696829646020</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add: ControlFlowExerciseFour.kt">
+      <option name="closed" value="true" />
+      <created>1696829862123</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1696829862123</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -271,6 +287,8 @@
     <MESSAGE value="Add: MapExercise.kt" />
     <MESSAGE value="Add: ControlFlowExerciseOne.kt" />
     <MESSAGE value="Add: ControlFlowExerciseTwo.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: ControlFlowExerciseTwo.kt" />
+    <MESSAGE value="Add: ControlFlowExerciseThree.kt&#10;- Fizz Buzz" />
+    <MESSAGE value="Add: ControlFlowExerciseFour.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: ControlFlowExerciseFour.kt" />
   </component>
 </project>
