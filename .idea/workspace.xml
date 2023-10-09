@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Refactor: uppercase the request variable">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MapExercise.kt" afterDir="false" />
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: MapExercise.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ControlFlowExerciseOne.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696827260588</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add: MapExercise.kt">
+      <option name="closed" value="true" />
+      <created>1696827719116</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696827719116</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -243,6 +252,7 @@
     <MESSAGE value="Add: ListExercise.kt" />
     <MESSAGE value="Add: SetExercise.kt" />
     <MESSAGE value="Refactor: uppercase the request variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor: uppercase the request variable" />
+    <MESSAGE value="Add: MapExercise.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: MapExercise.kt" />
   </component>
 </project>
