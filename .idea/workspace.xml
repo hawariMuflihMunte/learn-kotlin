@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Refactor: add outputs title to [`learnList`, learnSet]">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Refactor: add `learnMap` fun">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BasicTypesExercise.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/ReturnValueFromFun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ReturnValueFromFun.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +64,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2WRqMtxHuqlKnEajgmJKcvLqB61" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -166,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696737737651</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Refactor: add `learnMap` fun">
+      <option name="closed" value="true" />
+      <created>1696738407070</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696738407070</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -183,8 +195,9 @@
     <MESSAGE value="Feat: outputs list of readOnlyShapes&#10;- learn purposes" />
     <MESSAGE value="Feat: add list in shapes&#10;- learn purposes" />
     <MESSAGE value="Refactor: limit the scope of List to `learnList` fun" />
-    <MESSAGE value="Feat: add `LearnSet` fun" />
     <MESSAGE value="Refactor: add outputs title to [`learnList`, learnSet]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor: add outputs title to [`learnList`, learnSet]" />
+    <MESSAGE value="Feat: add `LearnSet` fun" />
+    <MESSAGE value="Refactor: add `learnMap` fun" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor: add `learnMap` fun" />
   </component>
 </project>
