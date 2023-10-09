@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: nullsafety/Example2.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nullsafety/Example3.kt" afterDir="false" />
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: nullsafety/Example3.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nullsafety/Exercise1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -378,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696861821642</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Add: nullsafety/Example3.kt">
+      <option name="closed" value="true" />
+      <created>1696863611337</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1696863611338</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -397,7 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refactor: add `learnMap` fun" />
     <MESSAGE value="Add: BasicTypesExercise.kt" />
     <MESSAGE value="Add: ListExercise.kt" />
     <MESSAGE value="Add: SetExercise.kt" />
@@ -422,6 +429,7 @@
     <MESSAGE value="Add: classes/Exercise2.kt" />
     <MESSAGE value="Add: nullsafe/Example1.kt" />
     <MESSAGE value="Add: nullsafety/Example2.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: nullsafety/Example2.kt" />
+    <MESSAGE value="Add: nullsafety/Example3.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: nullsafety/Example3.kt" />
   </component>
 </project>
