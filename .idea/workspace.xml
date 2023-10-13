@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise6.kt&#10;- circleArea">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Run: exercises/Exercise7.kt&#10;- rectangleArea&#10;- passed">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -59,6 +61,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/exercises/Exercise8.kt" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -80,14 +85,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercise7Kt">
-    <configuration name="Exercise2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise2Kt" />
-      <module name="learn-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Exercise8Kt">
     <configuration name="Exercise3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise3Kt" />
       <module name="learn-kotlin.main" />
@@ -116,13 +114,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise8Kt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercise8Kt" />
         <item itemvalue="Kotlin.Exercise7Kt" />
         <item itemvalue="Kotlin.Exercise6Kt" />
         <item itemvalue="Kotlin.Exercise5Kt" />
         <item itemvalue="Kotlin.Exercise3Kt" />
-        <item itemvalue="Kotlin.Exercise2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -479,7 +484,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697194419173</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Add: exercises/Exercise7.kt&#10;- rectangleArea">
+      <option name="closed" value="true" />
+      <created>1697194629321</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1697194629321</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Run: exercises/Exercise7.kt&#10;- rectangleArea&#10;- passed">
+      <option name="closed" value="true" />
+      <created>1697194721807</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1697194721807</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -498,8 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: ControlFlowExerciseTwo.kt" />
-    <MESSAGE value="Add: ControlFlowExerciseThree.kt&#10;- Fizz Buzz" />
     <MESSAGE value="Add: ControlFlowExerciseFour.kt" />
     <MESSAGE value="Add: FunctionExerciseOne.kt" />
     <MESSAGE value="Add: FunctionExerciseTwo.kt" />
@@ -523,6 +542,8 @@
     <MESSAGE value="Add: exercises/Exercise3.kt&#10;- accum" />
     <MESSAGE value="Add: exercises/Exercise5.kt&#10;- triangleArea" />
     <MESSAGE value="Add: exercises/Exercise6.kt&#10;- circleArea" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise6.kt&#10;- circleArea" />
+    <MESSAGE value="Add: exercises/Exercise7.kt&#10;- rectangleArea" />
+    <MESSAGE value="Run: exercises/Exercise7.kt&#10;- rectangleArea&#10;- passed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Run: exercises/Exercise7.kt&#10;- rectangleArea&#10;- passed" />
   </component>
 </project>
