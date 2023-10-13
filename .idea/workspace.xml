@@ -80,7 +80,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercise6Kt">
+  <component name="RunManager" selected="Kotlin.Exercise7Kt">
     <configuration name="Exercise2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise2Kt" />
       <module name="learn-kotlin.main" />
@@ -109,8 +109,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise7Kt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercise7Kt" />
         <item itemvalue="Kotlin.Exercise6Kt" />
         <item itemvalue="Kotlin.Exercise5Kt" />
         <item itemvalue="Kotlin.Exercise3Kt" />

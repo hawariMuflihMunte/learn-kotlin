@@ -5,5 +5,5 @@ fun rectangleArea(base: Int, height: Int): Int {
 }
 
 fun main() {
-
+    println(rectangleArea(5, 7))
 }
