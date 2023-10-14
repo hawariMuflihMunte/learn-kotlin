@@ -9,5 +9,5 @@ fun loveFun(
 }
 
 fun main() {
-
+    println(loveFun(2, 2))
 }
