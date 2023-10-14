@@ -4,12 +4,10 @@ fun twiceAsOld(
     dadYearsOld: Int,
     sonYearsOld: Int
 ): Int {
-    val ageGap = dadYearsOld - sonYearsOld
-
-    return if (ageGap < sonYearsOld) {
-        sonYearsOld - ageGap
+    return if ((dadYearsOld - sonYearsOld) < sonYearsOld) {
+        sonYearsOld - (dadYearsOld - sonYearsOld)
     } else {
-        ageGap - sonYearsOld
+        (dadYearsOld - sonYearsOld) - sonYearsOld
     }
 }
 
