@@ -5,5 +5,5 @@ fun getAscii(c: Char): Int {
 }
 
 fun main() {
-    println(getAscii(' '))
+    println(getAscii('a'))
 }
