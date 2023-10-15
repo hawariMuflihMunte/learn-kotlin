@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise17.kt&#10;- noSpace">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise18.kt" afterDir="false" />
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise18.kt&#10;- makeUpperCase">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,14 +86,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercise18Kt">
-    <configuration name="Exercise14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise14Kt" />
-      <module name="learn-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Exercise19Kt">
     <configuration name="Exercise15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise15Kt" />
       <module name="learn-kotlin.main" />
@@ -123,13 +115,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise19Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise19Kt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercise19Kt" />
         <item itemvalue="Kotlin.Exercise18Kt" />
         <item itemvalue="Kotlin.Exercise17Kt" />
         <item itemvalue="Kotlin.Exercise16Kt" />
         <item itemvalue="Kotlin.Exercise15Kt" />
-        <item itemvalue="Kotlin.Exercise14Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -141,14 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Feat: add `LearnSet` fun">
-      <option name="closed" value="true" />
-      <created>1696737737651</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1696737737651</updated>
     </task>
     <task id="LOCAL-00011" summary="Refactor: add `learnMap` fun">
       <option name="closed" value="true" />
@@ -534,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697345911766</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Add: exercises/Exercise18.kt&#10;- makeUpperCase">
+      <option name="closed" value="true" />
+      <created>1697346490550</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1697346490550</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -553,7 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: classes/Exercise2.kt" />
     <MESSAGE value="Add: nullsafe/Example1.kt" />
     <MESSAGE value="Add: nullsafety/Example2.kt" />
     <MESSAGE value="Add: nullsafety/Example3.kt" />
@@ -578,6 +576,7 @@
     <MESSAGE value="Add: exercises/Exercise15.kt&#10;- dutyFree" />
     <MESSAGE value="Add: exercises/Exercise16.kt&#10;- simpleArraySum" />
     <MESSAGE value="Add: exercises/Exercise17.kt&#10;- noSpace" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise17.kt&#10;- noSpace" />
+    <MESSAGE value="Add: exercises/Exercise18.kt&#10;- makeUpperCase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise18.kt&#10;- makeUpperCase" />
   </component>
 </project>
