@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise24.kt&#10;- countPositivesSumNegatives">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise25.kt" afterDir="false" />
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise25.kt&#10;- findShort">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise26.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -88,14 +87,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercise25Kt">
-    <configuration name="Exercise21Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise21Kt" />
-      <module name="learn-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Exercise26Kt">
     <configuration name="Exercise22Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise22Kt" />
       <module name="learn-kotlin.main" />
@@ -124,13 +116,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise26Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise26Kt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercise26Kt" />
         <item itemvalue="Kotlin.Exercise25Kt" />
         <item itemvalue="Kotlin.Exercise24Kt" />
         <item itemvalue="Kotlin.Exercise23Kt" />
         <item itemvalue="Kotlin.Exercise22Kt" />
-        <item itemvalue="Kotlin.Exercise21Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -142,14 +141,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Add: ControlFlowExerciseThree.kt&#10;- Fizz Buzz">
-      <option name="closed" value="true" />
-      <created>1696829646020</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1696829646020</updated>
     </task>
     <task id="LOCAL-00020" summary="Add: ControlFlowExerciseFour.kt">
       <option name="closed" value="true" />
@@ -535,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697364285618</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Add: exercises/Exercise25.kt&#10;- findShort">
+      <option name="closed" value="true" />
+      <created>1697369356629</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1697369356629</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -554,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise6.kt&#10;- circleArea" />
     <MESSAGE value="Add: exercises/Exercise7.kt&#10;- rectangleArea" />
     <MESSAGE value="Run: exercises/Exercise7.kt&#10;- rectangleArea&#10;- passed" />
     <MESSAGE value="Integrate: discord rich presence" />
@@ -579,7 +577,8 @@
     <MESSAGE value="Add: exercises/Exercise22.kt&#10;- abbrevName" />
     <MESSAGE value="Add: exercises/Exercise23.kt&#10;- solution.areaOrPerimeter" />
     <MESSAGE value="Add: exercises/Exercise24.kt&#10;- countPositivesSumNegatives" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise24.kt&#10;- countPositivesSumNegatives" />
+    <MESSAGE value="Add: exercises/Exercise25.kt&#10;- findShort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise25.kt&#10;- findShort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
