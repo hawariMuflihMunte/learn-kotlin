@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise23.kt&#10;- solution.areaOrPerimeter">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise24.kt" afterDir="false" />
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise24.kt&#10;- countPositivesSumNegatives">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise25.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -88,14 +88,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercise24Kt">
-    <configuration name="Exercise20Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise20Kt" />
-      <module name="learn-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Exercise25Kt">
     <configuration name="Exercise21Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise21Kt" />
       <module name="learn-kotlin.main" />
@@ -124,13 +117,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise25Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise25Kt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercise25Kt" />
         <item itemvalue="Kotlin.Exercise24Kt" />
         <item itemvalue="Kotlin.Exercise23Kt" />
         <item itemvalue="Kotlin.Exercise22Kt" />
         <item itemvalue="Kotlin.Exercise21Kt" />
-        <item itemvalue="Kotlin.Exercise20Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -142,14 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Add: ControlFlowExerciseTwo.kt">
-      <option name="closed" value="true" />
-      <created>1696828831285</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1696828831285</updated>
     </task>
     <task id="LOCAL-00019" summary="Add: ControlFlowExerciseThree.kt&#10;- Fizz Buzz">
       <option name="closed" value="true" />
@@ -535,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697357381994</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Add: exercises/Exercise24.kt&#10;- countPositivesSumNegatives">
+      <option name="closed" value="true" />
+      <created>1697364285618</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1697364285618</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -554,7 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise5.kt&#10;- triangleArea" />
     <MESSAGE value="Add: exercises/Exercise6.kt&#10;- circleArea" />
     <MESSAGE value="Add: exercises/Exercise7.kt&#10;- rectangleArea" />
     <MESSAGE value="Run: exercises/Exercise7.kt&#10;- rectangleArea&#10;- passed" />
@@ -579,7 +578,8 @@
     <MESSAGE value="Add: exercises/Exercise22.kt&#10;- abbrevName&#10;- with regex" />
     <MESSAGE value="Add: exercises/Exercise22.kt&#10;- abbrevName" />
     <MESSAGE value="Add: exercises/Exercise23.kt&#10;- solution.areaOrPerimeter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise23.kt&#10;- solution.areaOrPerimeter" />
+    <MESSAGE value="Add: exercises/Exercise24.kt&#10;- countPositivesSumNegatives" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise24.kt&#10;- countPositivesSumNegatives" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
