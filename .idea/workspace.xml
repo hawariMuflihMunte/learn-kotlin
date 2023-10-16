@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise28.kt&#10;- replaceVowelToExclamationMark">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise29.kt" afterDir="false" />
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise29.kt&#10;- litres&#10;- kotlin.math.floor">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise30.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise31.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,21 +89,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercise29Kt">
-    <configuration name="Exercise25Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise25Kt" />
-      <module name="learn-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise26Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise26Kt" />
-      <module name="learn-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Exercise31Kt">
     <configuration name="Exercise27Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise27Kt" />
       <module name="learn-kotlin.main" />
@@ -123,13 +111,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise30Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise30Kt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise31Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise31Kt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercise31Kt" />
+        <item itemvalue="Kotlin.Exercise30Kt" />
         <item itemvalue="Kotlin.Exercise29Kt" />
         <item itemvalue="Kotlin.Exercise28Kt" />
         <item itemvalue="Kotlin.Exercise27Kt" />
-        <item itemvalue="Kotlin.Exercise26Kt" />
-        <item itemvalue="Kotlin.Exercise25Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -141,14 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Add: FunctionExerciseThree.kt">
-      <option name="closed" value="true" />
-      <created>1696831023528</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1696831023528</updated>
     </task>
     <task id="LOCAL-00024" summary="Add: lambdaexpression/Example.kt">
       <option name="closed" value="true" />
@@ -534,7 +528,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697372607888</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Add: exercises/Exercise29.kt&#10;- litres&#10;- kotlin.math.floor">
+      <option name="closed" value="true" />
+      <created>1697372991664</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1697372991665</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -553,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise8.kt&#10;- quadraticFormula" />
     <MESSAGE value="Add: exercises/Exercise9.kt&#10;- loveFun" />
     <MESSAGE value="Run: exercises/Exercise9.kt&#10;- loveFun&#10;- passed" />
     <MESSAGE value="Add: exercises/Exercise10.kt&#10;- removeChar&#10;- remove first and last characters" />
@@ -578,7 +579,8 @@
     <MESSAGE value="Add: exercises/Exercise26.kt&#10;- highAndLow" />
     <MESSAGE value="Add: exercises/Exercise27.kt&#10;- ParseIntCharProblem.getAge" />
     <MESSAGE value="Add: exercises/Exercise28.kt&#10;- replaceVowelToExclamationMark" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise28.kt&#10;- replaceVowelToExclamationMark" />
+    <MESSAGE value="Add: exercises/Exercise29.kt&#10;- litres&#10;- kotlin.math.floor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise29.kt&#10;- litres&#10;- kotlin.math.floor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
