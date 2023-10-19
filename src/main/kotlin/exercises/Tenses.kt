@@ -22,6 +22,35 @@ object Tenses {
 
         return "${subjectContext.capitalize()} $verb $objectContext ${complimentOrAdjective ?: ""}"
     }
+
+    fun presentContinuous(
+        subjectContext: String,
+        verb: String,
+        objectContext: String?,
+        complimentOrAdjective: String?
+    ): String? {
+        if (subjectContext.lowercase() == "i") {
+            return "${subjectContext.capitalize()} am ${verb}ing ${objectContext ?: ""} ${complimentOrAdjective ?: ""}"
+        }
+
+        if (
+            subjectContext.lowercase() == "he" ||
+            subjectContext.lowercase() == "she" ||
+            subjectContext.lowercase() == "it"
+        ) {
+            return "${subjectContext.capitalize()} is ${verb}ing ${objectContext ?: ""} ${complimentOrAdjective ?: ""}"
+        }
+
+        if (
+            subjectContext.lowercase() == "you" ||
+            subjectContext.lowercase() == "they" ||
+            subjectContext.lowercase() == "we"
+        ) {
+            return "${subjectContext.capitalize()} are ${verb}ing ${objectContext ?: ""} ${complimentOrAdjective ?: ""}"
+        }
+
+        return null
+    }
 }
 
 fun main() {
@@ -31,6 +60,17 @@ fun main() {
             verb = "deny",
             objectContext = "book",
             complimentOrAdjective = "in the park"
+        )
+    )
+
+    println("")
+
+    println(
+        Tenses.presentContinuous(
+            subjectContext = "I",
+            verb = "eat",
+            objectContext = "an apple",
+            complimentOrAdjective = "in my room"
         )
     )
 }

@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Tenses.kt&#10;- Tenses.simplePresent">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise30.kt" afterDir="false" />
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise30.kt&#10;- PalindromeChecker.isPalindrome">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -143,14 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Add: lambdaexpression/Example2.kt">
-      <option name="closed" value="true" />
-      <created>1696831791241</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1696831791241</updated>
     </task>
     <task id="LOCAL-00027" summary="Add: lambdaexpression/Example3.kt">
       <option name="closed" value="true" />
@@ -536,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697679196279</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Add: exercises/Exercise30.kt&#10;- PalindromeChecker.isPalindrome">
+      <option name="closed" value="true" />
+      <created>1697680572578</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1697680572580</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -555,7 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise10.kt&#10;- removeChar&#10;- remove first and last characters" />
     <MESSAGE value="Add: exercises/Exercise11.kt&#10;- removeChar" />
     <MESSAGE value="Add: exercises/Exercise12.kt&#10;- twiceAsOld" />
     <MESSAGE value="Refactor: exercises/Exercise12.kt&#10;- twiceAsOld&#10;- reformat return statement" />
@@ -580,7 +578,8 @@
     <MESSAGE value="Add: exercises/Exercise29.kt&#10;- litres&#10;- kotlin.math.floor" />
     <MESSAGE value="Add: exercises/Exercise31.kt&#10;- MixedSum.sum" />
     <MESSAGE value="Add: exercises/Tenses.kt&#10;- Tenses.simplePresent" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Tenses.kt&#10;- Tenses.simplePresent" />
+    <MESSAGE value="Add: exercises/Exercise30.kt&#10;- PalindromeChecker.isPalindrome" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise30.kt&#10;- PalindromeChecker.isPalindrome" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
