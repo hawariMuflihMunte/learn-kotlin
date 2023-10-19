@@ -51,6 +51,23 @@ object Tenses {
 
         return null
     }
+
+    fun presentPerfect(
+        subjectContext: String,
+        verb: String,
+        objectContext: String?,
+        complimentOrAdjective: String?
+    ): String {
+        if (
+            subjectContext.lowercase() == "he" ||
+            subjectContext.lowercase() == "she" ||
+            subjectContext.lowercase() == "it"
+        ) {
+            return "${subjectContext.capitalize()} has $verb ${objectContext ?: ""} ${complimentOrAdjective ?: ""}"
+        }
+
+        return "${subjectContext.capitalize()} have $verb ${objectContext ?: ""} ${complimentOrAdjective ?: ""}"
+    }
 }
 
 fun main() {
@@ -71,6 +88,17 @@ fun main() {
             verb = "eat",
             objectContext = "an apple",
             complimentOrAdjective = "in my room"
+        )
+    )
+
+    println("")
+
+    println(
+        Tenses.presentPerfect(
+            subjectContext = "I",
+            verb = "cut",
+            objectContext = "2 papers",
+            complimentOrAdjective = null
         )
     )
 }

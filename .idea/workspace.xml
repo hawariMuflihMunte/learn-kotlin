@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise30.kt&#10;- PalindromeChecker.isPalindrome">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Tenses.kt&#10;- Tenses.presentContinuous">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/Tenses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Tenses.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercise30Kt">
+  <component name="RunManager" selected="Kotlin.TensesKt">
     <configuration name="Exercise28Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise28Kt" />
       <module name="learn-kotlin.main" />
@@ -126,8 +127,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Exercise30Kt" />
         <item itemvalue="Kotlin.TensesKt" />
+        <item itemvalue="Kotlin.Exercise30Kt" />
         <item itemvalue="Kotlin.Exercise31Kt" />
         <item itemvalue="Kotlin.Exercise29Kt" />
         <item itemvalue="Kotlin.Exercise28Kt" />
@@ -142,14 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Add: lambdaexpression/Example3.kt">
-      <option name="closed" value="true" />
-      <created>1696831970966</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1696831970966</updated>
     </task>
     <task id="LOCAL-00028" summary="Add: lambdaexpression/Example4.kt">
       <option name="closed" value="true" />
@@ -535,7 +528,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697680572580</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Add: exercises/Tenses.kt&#10;- Tenses.presentContinuous">
+      <option name="closed" value="true" />
+      <created>1697687032569</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1697687032570</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -554,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise11.kt&#10;- removeChar" />
     <MESSAGE value="Add: exercises/Exercise12.kt&#10;- twiceAsOld" />
     <MESSAGE value="Refactor: exercises/Exercise12.kt&#10;- twiceAsOld&#10;- reformat return statement" />
     <MESSAGE value="Add: exercises/Exercise13.kt&#10;- squareSum" />
@@ -579,7 +579,8 @@
     <MESSAGE value="Add: exercises/Exercise31.kt&#10;- MixedSum.sum" />
     <MESSAGE value="Add: exercises/Tenses.kt&#10;- Tenses.simplePresent" />
     <MESSAGE value="Add: exercises/Exercise30.kt&#10;- PalindromeChecker.isPalindrome" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise30.kt&#10;- PalindromeChecker.isPalindrome" />
+    <MESSAGE value="Add: exercises/Tenses.kt&#10;- Tenses.presentContinuous" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Tenses.kt&#10;- Tenses.presentContinuous" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
