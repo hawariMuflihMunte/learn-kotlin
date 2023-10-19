@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise31.kt&#10;- MixedSum.sum">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Tenses.kt&#10;- Tenses.simplePresent">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise30.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Tenses.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TensesKt">
+  <component name="RunManager" selected="Kotlin.Exercise30Kt">
     <configuration name="Exercise28Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise28Kt" />
       <module name="learn-kotlin.main" />
@@ -128,9 +127,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercise30Kt" />
         <item itemvalue="Kotlin.TensesKt" />
         <item itemvalue="Kotlin.Exercise31Kt" />
-        <item itemvalue="Kotlin.Exercise30Kt" />
         <item itemvalue="Kotlin.Exercise29Kt" />
         <item itemvalue="Kotlin.Exercise28Kt" />
       </list>
@@ -144,14 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Refactor: implements lambda expressions">
-      <option name="closed" value="true" />
-      <created>1696831633929</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1696831633929</updated>
     </task>
     <task id="LOCAL-00026" summary="Add: lambdaexpression/Example2.kt">
       <option name="closed" value="true" />
@@ -537,7 +528,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697482812825</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Add: exercises/Tenses.kt&#10;- Tenses.simplePresent">
+      <option name="closed" value="true" />
+      <created>1697679196278</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1697679196279</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -556,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Run: exercises/Exercise9.kt&#10;- loveFun&#10;- passed" />
     <MESSAGE value="Add: exercises/Exercise10.kt&#10;- removeChar&#10;- remove first and last characters" />
     <MESSAGE value="Add: exercises/Exercise11.kt&#10;- removeChar" />
     <MESSAGE value="Add: exercises/Exercise12.kt&#10;- twiceAsOld" />
@@ -581,7 +579,8 @@
     <MESSAGE value="Add: exercises/Exercise28.kt&#10;- replaceVowelToExclamationMark" />
     <MESSAGE value="Add: exercises/Exercise29.kt&#10;- litres&#10;- kotlin.math.floor" />
     <MESSAGE value="Add: exercises/Exercise31.kt&#10;- MixedSum.sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise31.kt&#10;- MixedSum.sum" />
+    <MESSAGE value="Add: exercises/Tenses.kt&#10;- Tenses.simplePresent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Tenses.kt&#10;- Tenses.simplePresent" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
