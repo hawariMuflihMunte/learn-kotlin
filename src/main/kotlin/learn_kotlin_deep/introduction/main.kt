@@ -1,7 +1,8 @@
 package learn_kotlin_deep.introduction
 
-import learn_kotlin_deep.introduction.Variables
-
 fun main() {
     Variables().example()
+    println("\n=== ## ====\n")
+    NullSafety().example()
+    NullSafety().workingWithNulls()
 }

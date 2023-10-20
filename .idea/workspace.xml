@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add(Class): Variables">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add(Class): NullSafety">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/learn_kotlin_deep/introduction/NullSafety.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/learn_kotlin_deep/introduction/NullSafety.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/learn_kotlin_deep/introduction/NullSafety.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/learn_kotlin_deep/introduction/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/learn_kotlin_deep/introduction/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,14 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Add: classes/Exercise2.kt">
-      <option name="closed" value="true" />
-      <created>1696858958174</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1696858958174</updated>
     </task>
     <task id="LOCAL-00035" summary="Add: nullsafe/Example1.kt">
       <option name="closed" value="true" />
@@ -536,7 +528,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697798617975</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Add(Class): NullSafety">
+      <option name="closed" value="true" />
+      <created>1697799040646</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1697799040646</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -555,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise17.kt&#10;- noSpace" />
     <MESSAGE value="Add: exercises/Exercise18.kt&#10;- makeUpperCase" />
     <MESSAGE value="Add: exercises/Exercise19.kt&#10;- Grasshopper.summation" />
     <MESSAGE value="Add: exercises/Exercise20.kt&#10;- getMiddle" />
@@ -580,7 +579,8 @@
     <MESSAGE value="Add: exercises/Exercise34.kt&#10;- stringToNumber" />
     <MESSAGE value="Add(Package): learn_kotlin_deep" />
     <MESSAGE value="Add(Class): Variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add(Class): Variables" />
+    <MESSAGE value="Add(Class): NullSafety" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add(Class): NullSafety" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
