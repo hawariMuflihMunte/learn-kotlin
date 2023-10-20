@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise32.kt&#10;- Kata.digitize">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise33.kt" afterDir="false" />
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise34.kt&#10;- stringToNumber">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,22 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Add: lambdaexpression/Example6.kt">
-      <option name="closed" value="true" />
-      <created>1696852148399</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1696852148399</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Add: lambdaexpression/Exercise1.kt">
-      <option name="closed" value="true" />
-      <created>1696852412229</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1696852412229</updated>
     </task>
     <task id="LOCAL-00032" summary="Add: lambdaexpression/Exercise2.kt">
       <option name="closed" value="true" />
@@ -535,7 +519,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697692331748</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Add: exercises/Exercise33.kt&#10;- greet">
+      <option name="closed" value="true" />
+      <created>1697692453981</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1697692453982</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Add: exercises/Exercise34.kt&#10;- stringToNumber">
+      <option name="closed" value="true" />
+      <created>1697693278855</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1697693278859</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -554,8 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise13.kt&#10;- squareSum" />
-    <MESSAGE value="Add: exercises/Exercise14.kt&#10;- opposite" />
     <MESSAGE value="Add: exercises/Exercise15.kt&#10;- dutyFree" />
     <MESSAGE value="Add: exercises/Exercise16.kt&#10;- simpleArraySum" />
     <MESSAGE value="Add: exercises/Exercise17.kt&#10;- noSpace" />
@@ -579,7 +577,9 @@
     <MESSAGE value="Add: exercises/Tenses.kt&#10;- Tenses.presentContinuous" />
     <MESSAGE value="Add: exercises/Tenses.kt&#10;- Tenses.presentPerfect" />
     <MESSAGE value="Add: exercises/Exercise32.kt&#10;- Kata.digitize" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise32.kt&#10;- Kata.digitize" />
+    <MESSAGE value="Add: exercises/Exercise33.kt&#10;- greet" />
+    <MESSAGE value="Add: exercises/Exercise34.kt&#10;- stringToNumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise34.kt&#10;- stringToNumber" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
