@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise40.kt&#10;- Person.showProfile">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise41.kt&#10;- FoldablePhone: Phone">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise41.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise42.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Object" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -89,14 +89,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercise41Kt">
-    <configuration name="Exercise37Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise37Kt" />
-      <module name="learn-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Exercise42Kt">
     <configuration name="Exercise38Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise38Kt" />
       <module name="learn-kotlin.main" />
@@ -125,13 +118,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise42Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise42Kt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercise42Kt" />
         <item itemvalue="Kotlin.Exercise41Kt" />
         <item itemvalue="Kotlin.Exercise40Kt" />
         <item itemvalue="Kotlin.Exercise39Kt" />
         <item itemvalue="Kotlin.Exercise38Kt" />
-        <item itemvalue="Kotlin.Exercise37Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -143,14 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Integrate: discord rich presence">
-      <option name="closed" value="true" />
-      <created>1697203647804</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1697203647804</updated>
     </task>
     <task id="LOCAL-00047" summary="Add: exercises/Exercise8.kt&#10;- quadraticFormula">
       <option name="closed" value="true" />
@@ -536,7 +528,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697859163108</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Add: exercises/Exercise41.kt&#10;- FoldablePhone: Phone">
+      <option name="closed" value="true" />
+      <created>1697866265159</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1697866265160</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -555,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise27.kt&#10;- ParseIntCharProblem.getAge" />
     <MESSAGE value="Add: exercises/Exercise28.kt&#10;- replaceVowelToExclamationMark" />
     <MESSAGE value="Add: exercises/Exercise29.kt&#10;- litres&#10;- kotlin.math.floor" />
     <MESSAGE value="Add: exercises/Exercise31.kt&#10;- MixedSum.sum" />
@@ -580,7 +579,8 @@
     <MESSAGE value="Add: exercises/Exercise39.kt&#10;- class Song" />
     <MESSAGE value="Add: exercises/Exercise40.kt&#10;- Song.showProfile" />
     <MESSAGE value="Add: exercises/Exercise40.kt&#10;- Person.showProfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise40.kt&#10;- Person.showProfile" />
+    <MESSAGE value="Add: exercises/Exercise41.kt&#10;- FoldablePhone: Phone" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise41.kt&#10;- FoldablePhone: Phone" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
