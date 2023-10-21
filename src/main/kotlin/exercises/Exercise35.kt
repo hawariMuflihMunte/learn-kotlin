@@ -5,15 +5,15 @@ package exercises
 * */
 
 fun main() {
-    val coins: (Int) -> String = { quantity ->
-        "$quantity quarters"
+    val coins: (Int) -> String = {
+        "$it quarters"
     }
 
 //    val cupcake: (Int) -> String = { quantity ->
 //        "Have a cupcake"
 //    }
 
-    val treatFunction = trickOrTreat(false, coins)
+    val treatFunction = trickOrTreat(false) { "$it quarters" }
     val trickFunction = trickOrTreat(true, null)
     treatFunction()
     trickFunction()
