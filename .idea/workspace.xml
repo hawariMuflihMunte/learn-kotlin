@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise36.kt&#10;- Mobile notifications">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise37.kt&#10;- Movie-ticket price&#10;- refactor filename to `Exercise37.kt` in git commit">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise38.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,14 +89,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercise36Kt">
-    <configuration name="Exercise34Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise34Kt" />
-      <module name="learn-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Exercise38Kt">
     <configuration name="Exercise35Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise35Kt" />
       <module name="learn-kotlin.main" />
@@ -109,6 +104,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise37Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise37Kt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise38Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise38Kt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learn_kotlin_deep.introduction.MainKt" />
       <module name="learn-kotlin.main" />
@@ -116,20 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learn_kotlin_deep.MainKt" />
-      <module name="learn-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercise38Kt" />
+        <item itemvalue="Kotlin.Exercise37Kt" />
         <item itemvalue="Kotlin.Exercise36Kt" />
         <item itemvalue="Kotlin.Exercise35Kt" />
         <item itemvalue="Kotlin.MainKt (1)" />
-        <item itemvalue="Kotlin.MainKt" />
-        <item itemvalue="Kotlin.Exercise34Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -141,22 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Add: exercises/Exercise2.kt&#10;- isLeapYear">
-      <option name="closed" value="true" />
-      <created>1697186982060</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1697186982061</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Add: exercises/Exercise3.kt&#10;- accum">
-      <option name="closed" value="true" />
-      <created>1697189608333</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1697189608333</updated>
     </task>
     <task id="LOCAL-00042" summary="Add: exercises/Exercise5.kt&#10;- triangleArea">
       <option name="closed" value="true" />
@@ -534,7 +520,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697856689163</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Add: exercises/Exercise36.kt&#10;- Movie-ticket price">
+      <option name="closed" value="true" />
+      <created>1697857157736</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1697857157736</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Add: exercises/Exercise37.kt&#10;- Movie-ticket price&#10;- refactor filename to `Exercise37.kt` in git commit">
+      <option name="closed" value="true" />
+      <created>1697857201446</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1697857201446</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -553,8 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise22.kt&#10;- abbrevName&#10;- with regex" />
-    <MESSAGE value="Add: exercises/Exercise22.kt&#10;- abbrevName" />
     <MESSAGE value="Add: exercises/Exercise23.kt&#10;- solution.areaOrPerimeter" />
     <MESSAGE value="Add: exercises/Exercise24.kt&#10;- countPositivesSumNegatives" />
     <MESSAGE value="Add: exercises/Exercise25.kt&#10;- findShort" />
@@ -578,7 +578,9 @@
     <MESSAGE value="Refactor: exercises/Exercise35.kt&#10;- Write lambda expressions with shorthand syntax" />
     <MESSAGE value="Refactor: exercises/Exercise35.kt&#10;- Use the `repeat()` function" />
     <MESSAGE value="Add: exercises/Exercise36.kt&#10;- Mobile notifications" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise36.kt&#10;- Mobile notifications" />
+    <MESSAGE value="Add: exercises/Exercise36.kt&#10;- Movie-ticket price" />
+    <MESSAGE value="Add: exercises/Exercise37.kt&#10;- Movie-ticket price&#10;- refactor filename to `Exercise37.kt` in git commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise37.kt&#10;- Movie-ticket price&#10;- refactor filename to `Exercise37.kt` in git commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
