@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add(Class): Classes">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise35.kt&#10;- Store a function in a variable">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise35.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise35.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Object" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -88,14 +89,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.MainKt (1)">
-    <configuration name="Exercise32Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise32Kt" />
-      <module name="learn-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Exercise35Kt">
     <configuration name="Exercise33Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise33Kt" />
       <module name="learn-kotlin.main" />
@@ -105,6 +99,13 @@
     </configuration>
     <configuration name="Exercise34Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise34Kt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise35Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise35Kt" />
       <module name="learn-kotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercise35Kt" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.Exercise34Kt" />
         <item itemvalue="Kotlin.Exercise33Kt" />
-        <item itemvalue="Kotlin.Exercise32Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -142,14 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Add: nullsafe/Example1.kt">
-      <option name="closed" value="true" />
-      <created>1696859779270</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1696859779271</updated>
     </task>
     <task id="LOCAL-00036" summary="Add: nullsafety/Example2.kt">
       <option name="closed" value="true" />
@@ -535,7 +528,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697799040646</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Add: exercises/Exercise35.kt&#10;- Store a function in a variable">
+      <option name="closed" value="true" />
+      <created>1697850994845</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1697850994846</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -554,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise18.kt&#10;- makeUpperCase" />
     <MESSAGE value="Add: exercises/Exercise19.kt&#10;- Grasshopper.summation" />
     <MESSAGE value="Add: exercises/Exercise20.kt&#10;- getMiddle" />
     <MESSAGE value="Add: exercises/Exercise20.kt&#10;- getAscii" />
@@ -579,7 +579,8 @@
     <MESSAGE value="Add(Package): learn_kotlin_deep" />
     <MESSAGE value="Add(Class): Variables" />
     <MESSAGE value="Add(Class): NullSafety" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add(Class): NullSafety" />
+    <MESSAGE value="Add: exercises/Exercise35.kt&#10;- Store a function in a variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise35.kt&#10;- Store a function in a variable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
