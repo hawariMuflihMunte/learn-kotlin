@@ -1,6 +1,7 @@
 package exercises
 
 fun main() {
+
     val child = 5
     val adult = 28
     val senior = 87
