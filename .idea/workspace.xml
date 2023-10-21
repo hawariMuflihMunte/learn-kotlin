@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Refactor: exercises/Exercise35.kt&#10;- Write lambda expressions with shorthand syntax">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise36.kt&#10;- Mobile notifications">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,14 +87,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercise35Kt">
-    <configuration name="Exercise33Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise33Kt" />
-      <module name="learn-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Exercise36Kt">
     <configuration name="Exercise34Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise34Kt" />
       <module name="learn-kotlin.main" />
@@ -104,6 +97,13 @@
     </configuration>
     <configuration name="Exercise35Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise35Kt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise36Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise36Kt" />
       <module name="learn-kotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercise36Kt" />
         <item itemvalue="Kotlin.Exercise35Kt" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.Exercise34Kt" />
-        <item itemvalue="Kotlin.Exercise33Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -141,22 +141,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Add: nullsafety/Exercise3.kt">
-      <option name="closed" value="true" />
-      <created>1696865089003</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1696865089003</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Add: exercises/Exercise1.kt">
-      <option name="closed" value="true" />
-      <created>1697183033537</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1697183033537</updated>
     </task>
     <task id="LOCAL-00040" summary="Add: exercises/Exercise2.kt&#10;- isLeapYear">
       <option name="closed" value="true" />
@@ -534,7 +518,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697856137981</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Refactor: exercises/Exercise35.kt&#10;- Use the `repeat()` function">
+      <option name="closed" value="true" />
+      <created>1697856331074</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1697856331074</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Add: exercises/Exercise36.kt&#10;- Mobile notifications">
+      <option name="closed" value="true" />
+      <created>1697856689163</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1697856689163</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -553,8 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise20.kt&#10;- getAscii" />
-    <MESSAGE value="Add(revise_prev): exercises/Exercise21.kt&#10;- getAscii" />
     <MESSAGE value="Add: exercises/Exercise22.kt&#10;- abbrevName&#10;- with regex" />
     <MESSAGE value="Add: exercises/Exercise22.kt&#10;- abbrevName" />
     <MESSAGE value="Add: exercises/Exercise23.kt&#10;- solution.areaOrPerimeter" />
@@ -578,7 +576,9 @@
     <MESSAGE value="Add: exercises/Exercise35.kt&#10;- Store a function in a variable" />
     <MESSAGE value="Refactor: exercises/Exercise35.kt&#10;- Use function types and lambda expressions in Kotlin" />
     <MESSAGE value="Refactor: exercises/Exercise35.kt&#10;- Write lambda expressions with shorthand syntax" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor: exercises/Exercise35.kt&#10;- Write lambda expressions with shorthand syntax" />
+    <MESSAGE value="Refactor: exercises/Exercise35.kt&#10;- Use the `repeat()` function" />
+    <MESSAGE value="Add: exercises/Exercise36.kt&#10;- Mobile notifications" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise36.kt&#10;- Mobile notifications" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
