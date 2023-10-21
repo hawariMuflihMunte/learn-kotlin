@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add(Class): NullSafety">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add(Class): Classes">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/learn_kotlin_deep/introduction/NullSafety.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/learn_kotlin_deep/introduction/NullSafety.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/learn_kotlin_deep/introduction/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/learn_kotlin_deep/introduction/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
