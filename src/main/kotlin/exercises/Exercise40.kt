@@ -17,4 +17,5 @@ class Person(val name: String, val age: Int, val hobby: String?, val referrer: P
             println("Name: $name\nAge: $age\nLikes to ${hobby ?: "doing nothing"}. Doesn't have a referrer.\n")
         }
     }
+
 }
