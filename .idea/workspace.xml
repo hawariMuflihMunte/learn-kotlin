@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Refactor: exercises/Exercise35.kt&#10;- Use function types and lambda expressions in Kotlin">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Refactor: exercises/Exercise35.kt&#10;- Write lambda expressions with shorthand syntax">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,14 +141,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Add: nullsafety/Example3.kt">
-      <option name="closed" value="true" />
-      <created>1696863611337</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1696863611338</updated>
     </task>
     <task id="LOCAL-00038" summary="Add: nullsafety/Exercise3.kt">
       <option name="closed" value="true" />
@@ -535,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697852521462</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Refactor: exercises/Exercise35.kt&#10;- Write lambda expressions with shorthand syntax">
+      <option name="closed" value="true" />
+      <created>1697856137981</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1697856137981</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -554,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise20.kt&#10;- getMiddle" />
     <MESSAGE value="Add: exercises/Exercise20.kt&#10;- getAscii" />
     <MESSAGE value="Add(revise_prev): exercises/Exercise21.kt&#10;- getAscii" />
     <MESSAGE value="Add: exercises/Exercise22.kt&#10;- abbrevName&#10;- with regex" />
@@ -579,7 +577,8 @@
     <MESSAGE value="Add(Class): NullSafety" />
     <MESSAGE value="Add: exercises/Exercise35.kt&#10;- Store a function in a variable" />
     <MESSAGE value="Refactor: exercises/Exercise35.kt&#10;- Use function types and lambda expressions in Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor: exercises/Exercise35.kt&#10;- Use function types and lambda expressions in Kotlin" />
+    <MESSAGE value="Refactor: exercises/Exercise35.kt&#10;- Write lambda expressions with shorthand syntax" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor: exercises/Exercise35.kt&#10;- Write lambda expressions with shorthand syntax" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

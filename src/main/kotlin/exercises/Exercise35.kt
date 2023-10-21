@@ -17,6 +17,11 @@ fun main() {
     val trickFunction = trickOrTreat(true, null)
     treatFunction()
     trickFunction()
+
+    repeat(4) {
+        treatFunction()
+    }
+    trickFunction()
 }
 
 fun trickOrTreat(isTrick: Boolean, extraTreat: ((Int) -> String)?): () -> Unit {
