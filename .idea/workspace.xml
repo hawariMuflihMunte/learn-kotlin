@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise41.kt&#10;- FoldablePhone: Phone">
+    <list default="true" id="f06c2faa-296e-4876-9c61-a1882f161a28" name="Changes" comment="Add: exercises/Exercise42.kt&#10;- Special auction">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dev_android/more_about_kotlin/Question.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Exercise42.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,14 +89,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercise42Kt">
-    <configuration name="Exercise38Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise38Kt" />
-      <module name="learn-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.FundamentalKt">
     <configuration name="Exercise39Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise39Kt" />
       <module name="learn-kotlin.main" />
@@ -125,13 +118,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FundamentalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev_android.more_about_kotlin.FundamentalKt" />
+      <module name="learn-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FundamentalKt" />
         <item itemvalue="Kotlin.Exercise42Kt" />
         <item itemvalue="Kotlin.Exercise41Kt" />
         <item itemvalue="Kotlin.Exercise40Kt" />
         <item itemvalue="Kotlin.Exercise39Kt" />
-        <item itemvalue="Kotlin.Exercise38Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -143,14 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696705697215</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Add: exercises/Exercise8.kt&#10;- quadraticFormula">
-      <option name="closed" value="true" />
-      <created>1697203697156</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1697203697156</updated>
     </task>
     <task id="LOCAL-00048" summary="Add: exercises/Exercise9.kt&#10;- loveFun">
       <option name="closed" value="true" />
@@ -536,7 +528,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697866265160</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Add: exercises/Exercise42.kt&#10;- Special auction">
+      <option name="closed" value="true" />
+      <created>1697866751464</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1697866751464</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -555,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add: exercises/Exercise28.kt&#10;- replaceVowelToExclamationMark" />
     <MESSAGE value="Add: exercises/Exercise29.kt&#10;- litres&#10;- kotlin.math.floor" />
     <MESSAGE value="Add: exercises/Exercise31.kt&#10;- MixedSum.sum" />
     <MESSAGE value="Add: exercises/Tenses.kt&#10;- Tenses.simplePresent" />
@@ -580,7 +579,8 @@
     <MESSAGE value="Add: exercises/Exercise40.kt&#10;- Song.showProfile" />
     <MESSAGE value="Add: exercises/Exercise40.kt&#10;- Person.showProfile" />
     <MESSAGE value="Add: exercises/Exercise41.kt&#10;- FoldablePhone: Phone" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise41.kt&#10;- FoldablePhone: Phone" />
+    <MESSAGE value="Add: exercises/Exercise42.kt&#10;- Special auction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: exercises/Exercise42.kt&#10;- Special auction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
